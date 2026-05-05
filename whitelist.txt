@@ -1,3 +1,4 @@
 ! Adguard whitelist for ip stuff
 || https://api.ipify.org
 || https://ifconfig.me
+
