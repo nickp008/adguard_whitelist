@@ -1,0 +1,2 @@
+! Adguard whitelist for ip stuff
+|| api.ipify.org
